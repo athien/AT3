@@ -11,6 +11,7 @@ import unittest
 import os
 from pdf import merge_pdfs, rotate_page, encrypt_pdf, decrypt_pdf, file_path, pdf_files
 
+
 # Unittest class
 class TestPdf(unittest.TestCase):
 

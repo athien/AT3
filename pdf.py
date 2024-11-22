@@ -18,6 +18,7 @@ file_path = os.getcwd()
 pdf_files = ["encrypted.pdf", "meetingminutes.pdf", "meetingminutes2.pdf", "watermark.pdf"]
 
 
+
 # Merge targeted PDF files into single PDF file function
 def merge_pdfs(file_path, pdf_files):
     """The merge_pdfs function merges multiple PDF documents, creating a new single document. Arguments: pdf1, pdf2"""
